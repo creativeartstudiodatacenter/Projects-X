@@ -102,6 +102,15 @@
     }
   },
   {
+    "cas.sweet.selfie.beauty.camera": {
+      "type": "am",
+      "am_ba": "QZ51Kplbq4d0GWXTE1sj99MpbFO/n5t32cK+jv89MUb4qv6nUB2ETnYLWNV9ipuj",
+      "am_in": "QZ51Kplbq4d0GWXTE1sj91SZv7EmUkTvaAU4KYTtKu531RyEG2Ngr+82aDqqsqlO",
+      "am_vi": "QZ51Kplbq4d0GWXTE1sj963jptWZmt95hPYjLw2xb+pdfXo6J/B2SRc2v9vk7jvK",
+      "am_na": "QZ51Kplbq4d0GWXTE1sj90qkyc2kesuYJ8Xe78jy31JrB+01zsQmEIdtshq7fWtr"
+    }
+  },
+  {
     "common": {
       "sticker_type": [
         "Free",
