@@ -111,6 +111,24 @@
     }
   },
   {
+    "cas.winter.photo.editor": {
+      "type": "am",
+      "am_ba": "QZ51Kplbq4d0GWXTE1sj9xS0sfxti6L2gsJYmOJxNAhqNOI/mvwXNVTuswauVxEW",
+      "am_in": "QZ51Kplbq4d0GWXTE1sj97Dk+KyvKMOjyqPlROZF4RZFHkRrkidImDpfodDbJSqN",
+      "am_vi": "QZ51Kplbq4d0GWXTE1sj9/OPquNSrtTcItojbrJKoGl8dhhmUBI3C7fSwIr7g1wU",
+      "am_na": "QZ51Kplbq4d0GWXTE1sj904Wavk3RiMLXnUJpVfQvHkoviA7chg5yvJXNwmhPo7Z"
+    }
+  },
+  {
+    "cas.car.photo.frames": {
+      "type": "am",
+      "am_ba": "QZ51Kplbq4d0GWXTE1sj9/TzkkDtduSBLTDlYybLpzv1KCO8sGB3IWu6nmF0aLo8",
+      "am_in": "QZ51Kplbq4d0GWXTE1sj90y91w/qz3HrzVo9LM+JJn5KJ8ZvEqyyRsFFUXOHoTFz",
+      "am_vi": "QZ51Kplbq4d0GWXTE1sj96KEvu2w9cHOiziPiG3+XM72EOyNZyqjih+z9IFY4BOh",
+      "am_na": "QZ51Kplbq4d0GWXTE1sj9/Kf7dZivggy8aejpBzTI+CE0yWxnXk0WrJrVOAmcaVS"
+    }
+  },
+  {
     "common": {
       "sticker_type": [
         "Free",
