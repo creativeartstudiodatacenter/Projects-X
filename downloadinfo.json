@@ -1,4 +1,13 @@
 [
+    {
+    "cas2.wild.animal.photo.editor": {
+      "type": "am",
+      "am_ba": "np6IFKz3ilk90LOBpUbpqKctb+OiWSE3RUfdmYpTIFQfya3J3fhv+QVgGFrw1iS2",
+      "am_in": "np6IFKz3ilk90LOBpUbpqMbx06uW5h+b6yXf4Hm+LOZp/01W+Q7sPwSCMf/y4xH0",
+      "am_vi": "np6IFKz3ilk90LOBpUbpqMgWr6tbDSq/K1YS/uF2Dpk1i4PXHStC52iqWdIQBt8F",
+      "am_na": "np6IFKz3ilk90LOBpUbpqAxJFPtb0wkZ9bR//1WL8iAr18C4P5UXVfbYVieXALxS"
+    }
+  },
   {
     "cas.rainbow.camera.photo.editor": {
       "type": "am",
@@ -63,10 +72,10 @@
   {
     "cas2.mountain.photo.editor": {
       "type": "am",
-      "am_ba": "QZ51Kplbq4d0GWXTE1sj9+KWI5s7ks+ApgFGS6Q7fHaIElMHEKqip9gcHtyWnKbP",
-      "am_in": "QZ51Kplbq4d0GWXTE1sj9+zFdKdMUY47MQ32oRMnPT3wYCoKlJXsF1Tv8/H+Z6bo",
-      "am_vi": "QZ51Kplbq4d0GWXTE1sj99X6ARNsGoJRS1JuII/zaqMBgMxtEGYBDW+Lefuosjbw",
-      "am_na": "QZ51Kplbq4d0GWXTE1sj901csgd8YQbphfRkvN9rdimHlIAT65hWJKE0NEEkcRtZ"
+      "am_ba": "np6IFKz3ilk90LOBpUbpqBkOUc7N5kHvFkVHblNFtmgLrlr5GrpVbt1oWaS8GLM8",
+      "am_in": "np6IFKz3ilk90LOBpUbpqE4lrlu7DjL2CtqpIgM3LAR2W4skB0GezHSLt37ZBn9z",
+      "am_vi": "np6IFKz3ilk90LOBpUbpqLGH4l/PHFNuXJJ9Kaik0bhfILAgBc99JFl51trvuYWH",
+      "am_na": "np6IFKz3ilk90LOBpUbpqG32IrKL2/9cUnbI5/5o6jV9rw3YEAM6/3+CB13A7oGU"
     }
   },
   {
@@ -81,19 +90,19 @@
   {
     "cas.sweet.snap.selfies.camera": {
       "type": "am",
-      "am_ba": "QZ51Kplbq4d0GWXTE1sj9w32Glou8SuUKfXmL6tTH1yWDVMPvkclDiFXX8TEAHOP",
-      "am_in": "QZ51Kplbq4d0GWXTE1sj94UBqAyXcVPRfdJddUEPWDBF6/iU1vbs8k5QZoqOiMGt",
-      "am_vi": "QZ51Kplbq4d0GWXTE1sj939vW4w2N89iSKTYDpnpCCgwF+fWspK4rTved7Sdi3JA",
-      "am_na": "QZ51Kplbq4d0GWXTE1sj9+aoqAof+figBtFn7uCd+NskW3uYR9OudKTns4Iom/hy"
+      "am_ba": "+hZHwiUWvXER0i59ULBRZedHw+B4hpnoBoBm5c/e69cmJOZg9DS90pVx/VHrjv7W",
+      "am_in": "+hZHwiUWvXER0i59ULBRZcot32FIS/JzU0J0ACiSyuutDbPNMEqLVvpzeqz/1uQG",
+      "am_vi": "+hZHwiUWvXER0i59ULBRZTOKxaQ7Z8ixlln78SdRO3TMSpdLO1VeDKo1s6d5rJz7",
+      "am_na": "+hZHwiUWvXER0i59ULBRZVqSHotVSH5kQQm/tizPks+eh2jNixfzpBR7Ss9XQErz"
     }
   },
   {
     "cas.emoji.background.editor": {
       "type": "am",
-      "am_ba": "QZ51Kplbq4d0GWXTE1sj91dph3nxJEmC4rH1pwarLoqIrnNp1URA/assF599r6Ju",
-      "am_in": "QZ51Kplbq4d0GWXTE1sj9w9fB2HtZo1RZdCOuBBqNawForRzV3pdKouGxnf5M3Kp",
-      "am_vi": "QZ51Kplbq4d0GWXTE1sj9xQlU+S5NG7y+/g+b1cXDixp3hMpSFpBVfqgZib280wG",
-      "am_na": "QZ51Kplbq4d0GWXTE1sj95uILOZT/UcrmTsTJ7CD8F0bSrRJdpWPiJtSg2jf0zE6"
+      "am_ba": "+hZHwiUWvXER0i59ULBRZTRkG6zxlstH6oe4N7IdykGEBlgXzBQqstWeBdHEpvl0",
+      "am_in": "+hZHwiUWvXER0i59ULBRZXeRPtGkFvrY/vpB6wG3BZZ0+Y7CwwPv3CcWmdhbC1yi",
+      "am_vi": "+hZHwiUWvXER0i59ULBRZc00JfJWfoOAEUMb8il0LbWyUnDrJ6Bbbt2z6eSvrqBH",
+      "am_na": "+hZHwiUWvXER0i59ULBRZeE1WkSssAlxj/FzYes8qDGW5iYnsaOEYlYJgLNXAY9K"
     }
   },
   {
@@ -108,10 +117,10 @@
   {
     "cas.sweet.selfie.beauty.camera": {
       "type": "am",
-      "am_ba": "QZ51Kplbq4d0GWXTE1sj99MpbFO/n5t32cK+jv89MUb4qv6nUB2ETnYLWNV9ipuj",
-      "am_in": "QZ51Kplbq4d0GWXTE1sj91SZv7EmUkTvaAU4KYTtKu531RyEG2Ngr+82aDqqsqlO",
-      "am_vi": "QZ51Kplbq4d0GWXTE1sj963jptWZmt95hPYjLw2xb+pdfXo6J/B2SRc2v9vk7jvK",
-      "am_na": "QZ51Kplbq4d0GWXTE1sj90qkyc2kesuYJ8Xe78jy31JrB+01zsQmEIdtshq7fWtr"
+      "am_ba": "np6IFKz3ilk90LOBpUbpqB+cNv+S0iVLajKPl6GgBxjgiFrgk1YowRajOZwZStap",
+      "am_in": "np6IFKz3ilk90LOBpUbpqHjw74+2DIVIAilTRTqwPZwTcwGZQS27yaOeAW93RdDV",
+      "am_vi": "np6IFKz3ilk90LOBpUbpqOCERfkTBPMM7UrUn3R02lr2mJEj9dlCi4eWrvnfZB2O",
+      "am_na": "np6IFKz3ilk90LOBpUbpqPoONqEHzJQAS62TCGeq3tIlEiU2JzgcjxnK7jzbLIvN"
     }
   },
   {
