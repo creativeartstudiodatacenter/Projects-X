@@ -24,7 +24,7 @@
   {
     "cas2.waterfall.photo.editor": {
       "type": "am",
-      "ads_list": ["fb","am"],
+      "ads_list": ["am","fb"],
       "fb_ba": "I8spIlB5o7z2K7vM76FBlRdtMmOZGAdkx9Trz9JXutg=",
       "fb_in": "I8spIlB5o7z2K7vM76FBlWkXQOKYz9a2+oIhm9TA/8k=",
       "fb_re": "I8spIlB5o7z2K7vM76FBlUT1y9wYI1uOYTcGAq2ZvXc=",
