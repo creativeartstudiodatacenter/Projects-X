@@ -24,11 +24,18 @@
   {
     "cas2.waterfall.photo.editor": {
       "type": "am",
-      "ads_list": ["am","fb"],
-      "fb_ba": "I8spIlB5o7z2K7vM76FBlRdtMmOZGAdkx9Trz9JXutg=",
-      "fb_in": "I8spIlB5o7z2K7vM76FBlWkXQOKYz9a2+oIhm9TA/8k=",
-      "fb_re": "I8spIlB5o7z2K7vM76FBlUT1y9wYI1uOYTcGAq2ZvXc=",
-      "fb_na": "I8spIlB5o7z2K7vM76FBlQHbI6deqXaL8A/AkhUPrGs=",
+      "ads_list": ["fb","am"],
+
+       "fb_ba": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
+      "fb_in": "xk0Z4yk2jeolgQGPfhNpmLjjwxwRHdwAFpuFmQs2hlSHivmElE+8EtpEp78PS7CcFQdlIm00sk7TFfUdOeCxHA==",
+      "fb_re": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
+      "fb_na": "lK9eVamuAM8S6D4UZcgcktdC10yY6IuU83rFrQF9Pobi+DC6nLGaMzAnM/dA3S1H",
+
+
+      "fb_ba1": "I8spIlB5o7z2K7vM76FBlRdtMmOZGAdkx9Trz9JXutg=",
+      "fb_in1": "I8spIlB5o7z2K7vM76FBlWkXQOKYz9a2+oIhm9TA/8k=",
+      "fb_re1": "I8spIlB5o7z2K7vM76FBlUT1y9wYI1uOYTcGAq2ZvXc=",
+      "fb_na1": "I8spIlB5o7z2K7vM76FBlQHbI6deqXaL8A/AkhUPrGs=",
       "am_ba": "np6IFKz3ilk90LOBpUbpqPgXOoNvNx8hEb0gphzzk6rn0dIBhKuhcONs1UTizscA",
       "am_in": "np6IFKz3ilk90LOBpUbpqN5ElWd5yN3vB10/6hwSWn6TC09PaqiphJ9a5IMmY9Pa",
       "am_vi": "np6IFKz3ilk90LOBpUbpqIISpdFNTExnPNqp2GX5FBgPQOLNF7RKRQkpSxYOihoL",
