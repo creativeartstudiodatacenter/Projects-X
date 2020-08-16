@@ -24,13 +24,13 @@
   {
     "cas2.waterfall.photo.editor": {
       "type": "am",
-      "ads_list": ["sa","am","fb"],
+      "ads_list": ["am","fb"],
 
        "fb_ba_test": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
       "fb_in_test": "xk0Z4yk2jeolgQGPfhNpmLjjwxwRHdwAFpuFmQs2hlSHivmElE+8EtpEp78PS7CcFQdlIm00sk7TFfUdOeCxHA==",
       "fb_re_test": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
       "fb_na_test": "lK9eVamuAM8S6D4UZcgcktdC10yY6IuU83rFrQF9Pobi+DC6nLGaMzAnM/dA3S1H",
-      "sa_id":"VJe3JZhzK2/iuKgfG2dsbA==",
+      "sa_id_test":"VJe3JZhzK2/iuKgfG2dsbA==",
 
       "fb_ba": "I8spIlB5o7z2K7vM76FBlRdtMmOZGAdkx9Trz9JXutg=",
       "fb_in": "I8spIlB5o7z2K7vM76FBlWkXQOKYz9a2+oIhm9TA/8k=",
@@ -39,8 +39,7 @@
       "am_ba": "np6IFKz3ilk90LOBpUbpqPgXOoNvNx8hEb0gphzzk6rn0dIBhKuhcONs1UTizscA",
       "am_in": "np6IFKz3ilk90LOBpUbpqN5ElWd5yN3vB10/6hwSWn6TC09PaqiphJ9a5IMmY9Pa",
       "am_vi": "np6IFKz3ilk90LOBpUbpqIISpdFNTExnPNqp2GX5FBgPQOLNF7RKRQkpSxYOihoL",
-      "am_na": "np6IFKz3ilk90LOBpUbpqL+eUfKI9L//z0ag2bylp1ozkabpxCgpfTSu6wfGL2RH",
-      "disable_sa":false
+      "am_na": "np6IFKz3ilk90LOBpUbpqL+eUfKI9L//z0ag2bylp1ozkabpxCgpfTSu6wfGL2RH"
     }
   },
   {
