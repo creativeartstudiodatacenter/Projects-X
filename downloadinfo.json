@@ -70,8 +70,8 @@
   },
   {
     "cas.heaven.photo.frames": {
-      "type": "am",
-      "ads_list": ["am","fb"],
+      "type": "fb",
+      "ads_list": ["fb","am"],
        "fb_ba": "bbrEiFdspqCc0+eeO9AAsAZX6lAQxQoZmTtj/Wx5nIA=",
       "fb_in": "bbrEiFdspqCc0+eeO9AAsNRNFKsSncgOl4d7lv80nVE=",
       "fb_re": "bbrEiFdspqCc0+eeO9AAsNJPN7qJcxr0Rf/QixiMtyw=",
