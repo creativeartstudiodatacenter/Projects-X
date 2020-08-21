@@ -36,10 +36,11 @@
       "fb_in": "I8spIlB5o7z2K7vM76FBlWkXQOKYz9a2+oIhm9TA/8k=",
       "fb_re": "I8spIlB5o7z2K7vM76FBlUT1y9wYI1uOYTcGAq2ZvXc=",
       "fb_na": "I8spIlB5o7z2K7vM76FBlQHbI6deqXaL8A/AkhUPrGs=",
-      "am_ba": "np6IFKz3ilk90LOBpUbpqPgXOoNvNx8hEb0gphzzk6rn0dIBhKuhcONs1UTizscA",
-      "am_in": "np6IFKz3ilk90LOBpUbpqN5ElWd5yN3vB10/6hwSWn6TC09PaqiphJ9a5IMmY9Pa",
-      "am_vi": "np6IFKz3ilk90LOBpUbpqIISpdFNTExnPNqp2GX5FBgPQOLNF7RKRQkpSxYOihoL",
-      "am_na": "np6IFKz3ilk90LOBpUbpqL+eUfKI9L//z0ag2bylp1ozkabpxCgpfTSu6wfGL2RH"
+      
+      "am_ba": "/UPSuLCac6xbb0XhHlOqZTpUATizswC8Jd6uopMs7qF4DGLLkUs7uQF8pmWuy3es",
+      "am_in": "/UPSuLCac6xbb0XhHlOqZVdamD9clAsBkfw8T80y1iIO67gsIU1WcEVXimSOh1Ir",
+      "am_vi": "/UPSuLCac6xbb0XhHlOqZRklzQMGznQSYD6r0+xdY1lc1WEwga97nPFx1OLuNaO/",
+      "am_na": "/UPSuLCac6xbb0XhHlOqZRElG5tOF+bU/UAJR/H1HxPdK14BdodT8KCTvadrn//g"
     }
   },
   {
@@ -129,7 +130,7 @@
   },
   {
     "cas.sweet.selfie.beauty.camera": {
-      "type": "am",
+      "type": "fb",
       "ads_list": ["fb","am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqB+cNv+S0iVLajKPl6GgBxjgiFrgk1YowRajOZwZStap",
       "am_in": "np6IFKz3ilk90LOBpUbpqHjw74+2DIVIAilTRTqwPZwTcwGZQS27yaOeAW93RdDV",
