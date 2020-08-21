@@ -130,10 +130,16 @@
   {
     "cas.sweet.selfie.beauty.camera": {
       "type": "am",
+      "ads_list": ["fb","am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqB+cNv+S0iVLajKPl6GgBxjgiFrgk1YowRajOZwZStap",
       "am_in": "np6IFKz3ilk90LOBpUbpqHjw74+2DIVIAilTRTqwPZwTcwGZQS27yaOeAW93RdDV",
       "am_vi": "np6IFKz3ilk90LOBpUbpqOCERfkTBPMM7UrUn3R02lr2mJEj9dlCi4eWrvnfZB2O",
-      "am_na": "np6IFKz3ilk90LOBpUbpqPoONqEHzJQAS62TCGeq3tIlEiU2JzgcjxnK7jzbLIvN"
+      "am_na": "np6IFKz3ilk90LOBpUbpqPoONqEHzJQAS62TCGeq3tIlEiU2JzgcjxnK7jzbLIvN",
+            
+      "fb_ba": "l5Du0Yj3y9HvwVNJRjs/TAIkpeG32otGsuaSaMnGyck=",
+      "fb_in": "l5Du0Yj3y9HvwVNJRjs/TOKT3WeumYOpJPi0TfWbbyU=",
+      "fb_re": "l5Du0Yj3y9HvwVNJRjs/TOwaKhz3HuGXqHbWuwglsIA=",
+      "fb_na": "l5Du0Yj3y9HvwVNJRjs/TBcedgLU+9dnIzWzVarxFPo="
     }
   },
   {
