@@ -11,14 +11,11 @@
   {
     "cas.rainbow.camera.photo.editor": {
       "type": "am",
+      "ads_list": ["fb"],
       "fb_ba": "JJua8gf9Cjv23HILYyEf4GhbWeB9Td36IkveI4JGLIE=",
       "fb_in": "JJua8gf9Cjv23HILYyEf4LD3UeQ4QGJtObYOdjo/I/U=",
       "fb_re": "JJua8gf9Cjv23HILYyEf4D9w5OFCBxRK8UHHB/O9Y1A=",
-      "fb_na": "JJua8gf9Cjv23HILYyEf4IlpnU6SaiPn0sW7Rhxev1I=",
-      "am_ba": "QZ51Kplbq4d0GWXTE1sj999xxR3TdD9gh8X/FpCIAq8cRICQ3AfNA+gfR6SqzrSI",
-      "am_in": "QZ51Kplbq4d0GWXTE1sj9+XwkxEmvb07Xjw//nLlmGKU4z1+px2l6swjY6Rk9O2E",
-      "am_vi": "QZ51Kplbq4d0GWXTE1sj9ztEFT1xUTw8W3fccfYw6EjTbuaflvGZHIxcdQ9GgkPD",
-      "am_na": "QZ51Kplbq4d0GWXTE1sj9zPQODojDlWplxwpc3durmCEVlTnwOQaVkB7TmeI2hi8"
+      "fb_na": "JJua8gf9Cjv23HILYyEf4IlpnU6SaiPn0sW7Rhxev1I="
     }
   },
   {
@@ -59,14 +56,11 @@
   {
     "cas.flower.photo.frames.photo.editor": {
       "type": "am",
+      "ads_list": ["fb"],
       "fb_ba": "fGNbq9FClqDiZiHsWIrvBgrfDrKObysCZakAEeQwKg4=",
       "fb_in": "fGNbq9FClqDiZiHsWIrvBsJ6L0xDhd1cMAfJafCcmUY=",
       "fb_re": "fGNbq9FClqDiZiHsWIrvBi0FbEess3BeZlVLruiRQNQ=",
-      "fb_na": "fGNbq9FClqDiZiHsWIrvBn9PSaP448Fr2J6dhqwIGDg=",
-      "am_ba": "QZ51Kplbq4d0GWXTE1sj994eWaIUTNNpim96FCrhnr/pr2UOrrnkAxKrB1jw1AI7",
-      "am_in": "QZ51Kplbq4d0GWXTE1sj90YENrwvyn55VlrabF7xMHh3tli3RoB+T8pbMCVm7luG",
-      "am_vi": "QZ51Kplbq4d0GWXTE1sj9yzRolKXknJpyaN2MrYCUtZCsC/0nPFhmmCzLWkxkLn+",
-      "am_na": "QZ51Kplbq4d0GWXTE1sj9y/tvUbMpedh6b/BCcSIjm0/3H64benq45bk5WvoDCW7"
+      "fb_na": "fGNbq9FClqDiZiHsWIrvBn9PSaP448Fr2J6dhqwIGDg="
     }
   },
   {
