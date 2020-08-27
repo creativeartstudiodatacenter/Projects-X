@@ -1,5 +1,11 @@
 [
     {
+    "cas.heart.crown.photo.editor": {
+      "type": "sa",
+      "ads_list": ["sa"]
+    }
+  },
+  {
     "cas2.wild.animal.photo.editor": {
       "type": "am",
       "am_ba": "np6IFKz3ilk90LOBpUbpqKctb+OiWSE3RUfdmYpTIFQfya3J3fhv+QVgGFrw1iS2",
