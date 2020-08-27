@@ -2,7 +2,8 @@
     {
     "cas.heart.crown.photo.editor": {
       "type": "sa",
-      "ads_list": ["sa"]
+      "ads_list": ["sa"],
+      "disable_sa":false
     }
   },
   {
@@ -121,11 +122,9 @@
   },
   {
     "cas.garden.photo.frame": {
-      "type": "am",
-      "am_ba": "QZ51Kplbq4d0GWXTE1sj92osu+wcusv7wyCamVdCrlr8hctHn8odwvYhkNdcSPcR",
-      "am_in": "QZ51Kplbq4d0GWXTE1sj93VTP0civXJ3NqiPQgmo+PiSPpbfr1OTcNHymIKSNWS/",
-      "am_vi": "QZ51Kplbq4d0GWXTE1sj93aco3oA2HviD+EKnPUTXXlU6wNlvusJ70pNnSSVuH0m",
-      "am_na": "QZ51Kplbq4d0GWXTE1sj97k/7qZoC+Ysdo6VejCc+eqsD+h/QMkyd8Es6qcQGG3y"
+    	"type": "sa",
+      "ads_list": ["sa"],
+      "disable_sa":false
     }
   },
   {
