@@ -114,16 +114,21 @@
   {
     "cas.emoji.background.editor": {
       "type": "am",
-      "am_ba": "+hZHwiUWvXER0i59ULBRZTRkG6zxlstH6oe4N7IdykGEBlgXzBQqstWeBdHEpvl0",
-      "am_in": "+hZHwiUWvXER0i59ULBRZXeRPtGkFvrY/vpB6wG3BZZ0+Y7CwwPv3CcWmdhbC1yi",
-      "am_vi": "+hZHwiUWvXER0i59ULBRZc00JfJWfoOAEUMb8il0LbWyUnDrJ6Bbbt2z6eSvrqBH",
-      "am_na": "+hZHwiUWvXER0i59ULBRZeE1WkSssAlxj/FzYes8qDGW5iYnsaOEYlYJgLNXAY9K"
+      "ads_list": ["am"],
+      "am_ba": "np6IFKz3ilk90LOBpUbpqMW+ZlMD7YnCffxoMxjHvk7S62QKXF0hlYYqH7qVjFUh",
+      "am_in": "np6IFKz3ilk90LOBpUbpqJ/fsnWCdqlREjI3Y+iSC4kjXo8JHSCgl1CMfG8eQLsY",
+      "am_vi": "np6IFKz3ilk90LOBpUbpqLC94VYWkzRqJ+Its9IUviBdl6yXGpJXBp5k9xVpnFXD",
+      "am_na": "np6IFKz3ilk90LOBpUbpqEuiCzDNAnSp+geFKWKI7M6Tt+I/A7BjRTYoiXQWFZTV"
     }
   },
   {
     "cas.garden.photo.frame": {
-    	"type": "sa",
-      "ads_list": ["sa"],
+    	"type": "am",
+      "ads_list": ["am,sa"],
+      "am_ba": "np6IFKz3ilk90LOBpUbpqHD59MBhzO2oVywJqbQ7SANVgZnOgsK1v62eokQ8zLw3",
+      "am_in": "np6IFKz3ilk90LOBpUbpqLvxgyXKyu8mQV+/5J0WoqpcCdWruPGpur6Tzv4TUAGq",
+      "am_vi": "np6IFKz3ilk90LOBpUbpqNGDv1NzS9c0WPSXPJuaTrYvV0jIzJV7VKvlGglTdAVa",
+      "am_na": "np6IFKz3ilk90LOBpUbpqIIT5TUyKn7i2Oy1n8/0GDkoDOyrB1HDmqqMm5M6pWgl",
       "disable_sa":false
     }
   },
