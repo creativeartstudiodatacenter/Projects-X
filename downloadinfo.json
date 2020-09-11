@@ -49,12 +49,13 @@
   },
   {
     "cas.happy.birthday.photo.frames": {
-      "type": "fb",
-       "ads_list": ["fb"],
+      "type": "sa",
+       "ads_list": ["sa,fb"],
       "fb_ba": "JJua8gf9Cjv23HILYyEf4GhbWeB9Td36IkveI4JGLIE=",
       "fb_in": "JJua8gf9Cjv23HILYyEf4LD3UeQ4QGJtObYOdjo/I/U=",
       "fb_re": "JJua8gf9Cjv23HILYyEf4D9w5OFCBxRK8UHHB/O9Y1A=",
       "fb_na": "JJua8gf9Cjv23HILYyEf4IlpnU6SaiPn0sW7Rhxev1I=",
+      "disable_sa":false
     }
   },
   {
