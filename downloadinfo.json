@@ -18,7 +18,12 @@
   {
     "cas.rainbow.camera.photo.editor": {
       "type": "fb",
-      "ads_list": ["fb"],
+      "ads_list": ["fb","am"],
+      "am_ba": "np6IFKz3ilk90LOBpUbpqO6IClrOlXZ4fUDrmXwYaCRmWMZ4q74UH69ZM68x5NAk",
+      "am_in": "np6IFKz3ilk90LOBpUbpqDaSXD9918W9G6VA5uWWz4qUQmWsK60gDy3pcTcnOSHX",
+      "am_vi": "np6IFKz3ilk90LOBpUbpqHFo7lRz7wZhl1mHl44budDu6ZzRIpqt8baaSfHCum4c",
+      "am_na": "np6IFKz3ilk90LOBpUbpqMILia8GusDe3YjjoXBGQo/uxZSShu5WADMj8W/CKj5o",
+
       "fb_ba": "TzcYMmUvruDv/dY/4zCM2p610MlJdMYFF3/c86IZp1c=",
       "fb_in": "TzcYMmUvruDv/dY/4zCM2uLMuxHUCO+kY/BgHkGD7XQ=",
       "fb_re": "TzcYMmUvruDv/dY/4zCM2qvPPzl06gDHy8C9t7xEg6g=",
@@ -139,12 +144,18 @@
   },
   {
     "cas.garden.photo.frame": {
-    	"type": "am",
-      "ads_list": ["am,sa"],
+    	"type": "fb",
+      "ads_list": ["fb","am","sa"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqHD59MBhzO2oVywJqbQ7SANVgZnOgsK1v62eokQ8zLw3",
       "am_in": "np6IFKz3ilk90LOBpUbpqLvxgyXKyu8mQV+/5J0WoqpcCdWruPGpur6Tzv4TUAGq",
       "am_vi": "np6IFKz3ilk90LOBpUbpqNGDv1NzS9c0WPSXPJuaTrYvV0jIzJV7VKvlGglTdAVa",
       "am_na": "np6IFKz3ilk90LOBpUbpqIIT5TUyKn7i2Oy1n8/0GDkoDOyrB1HDmqqMm5M6pWgl",
+
+       "fb_ba": "cfZSuJkLeyzky+1Qyfqj6N0lQ+rAPXKq1COLAqnyIOE=",
+      "fb_in": "cfZSuJkLeyzky+1Qyfqj6DquQsrT5cu52DDGIu88Lh0=",
+      "fb_re": "cfZSuJkLeyzky+1Qyfqj6HvGhZCIjMqgxtJ/QeSlYGY=",
+      "fb_na": "cfZSuJkLeyzky+1Qyfqj6G/BqZs/+4rOkNpZMT1Eu+0=",
+
       "disable_sa":false
     }
   },
@@ -174,11 +185,17 @@
   },
   {
     "cas.car.photo.frames": {
-      "type": "am",
+      "type": "fb",
+      "ads_list": ["fb","am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqGPK4Ur7GvDbfx915tA/QicskgOZofFrt2oRVcrRFxFN",
       "am_in": "np6IFKz3ilk90LOBpUbpqAnNYB/UZFVUVHWbrvuTSC8/MxZarH8ZTTlskpFxxxvL",
       "am_vi": "np6IFKz3ilk90LOBpUbpqBauO6MC1WW3YE0e9JR2ubfLP6Xc/D9zMmbtI/Lqem0z",
-      "am_na": "np6IFKz3ilk90LOBpUbpqL4a5ljCu3olvcYGgl5fmCgbHTnXU/S7g22CSR3uBVi7"
+      "am_na": "np6IFKz3ilk90LOBpUbpqL4a5ljCu3olvcYGgl5fmCgbHTnXU/S7g22CSR3uBVi7",
+
+       "fb_ba": "ykAdgmgOyVAa4iYtVDc+5NFGIcRnYqVjCUC8+tlecv4=",
+      "fb_in": "ykAdgmgOyVAa4iYtVDc+5NLPcs2KlqY2KjtTC6GnvdA=",
+      "fb_re": "ykAdgmgOyVAa4iYtVDc+5OLNBREkk95XffWC7IrNKtM=",
+      "fb_na": "ykAdgmgOyVAa4iYtVDc+5MYT1unmjMEw6qvsDXfZ+4M="
     }
   },
   {
