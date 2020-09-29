@@ -1,14 +1,17 @@
 [
     {
     "cas.heart.crown.photo.editor": {
-      "type": "sa",
-      "ads_list": ["sa"],
-      "disable_sa":false
+      "type": "am",
+      "ads_list": ["am"],
+      "am_ba": "np6IFKz3ilk90LOBpUbpqKhPpouo4lq8pCX2kxiC/U1UNGsQXsEwZgzlysGWv1nE",
+      "am_in": "np6IFKz3ilk90LOBpUbpqHMmv29dG1bsQCvHt1JQNJGoDg4Hv4lo+48p/ilzbPIP",
+      "am_na": "np6IFKz3ilk90LOBpUbpqEhT1OC/FePpoJoyvcPPbdJu7V2tT6s7lwl/mqOpNsUh"
     }
   },
   {
     "cas2.wild.animal.photo.editor": {
       "type": "am",
+      "ads_list": ["am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqKctb+OiWSE3RUfdmYpTIFQfya3J3fhv+QVgGFrw1iS2",
       "am_in": "np6IFKz3ilk90LOBpUbpqMbx06uW5h+b6yXf4Hm+LOZp/01W+Q7sPwSCMf/y4xH0",
       "am_vi": "np6IFKz3ilk90LOBpUbpqMgWr6tbDSq/K1YS/uF2Dpk1i4PXHStC52iqWdIQBt8F",
@@ -95,6 +98,7 @@
   {
     "cas2.mountain.photo.editor": {
       "type": "am",
+      "ads_list": ["am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqBkOUc7N5kHvFkVHblNFtmgLrlr5GrpVbt1oWaS8GLM8",
       "am_in": "np6IFKz3ilk90LOBpUbpqE4lrlu7DjL2CtqpIgM3LAR2W4skB0GezHSLt37ZBn9z",
       "am_vi": "np6IFKz3ilk90LOBpUbpqLGH4l/PHFNuXJJ9Kaik0bhfILAgBc99JFl51trvuYWH",
