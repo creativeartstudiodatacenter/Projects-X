@@ -55,7 +55,7 @@
   {
     "cas.happy.birthday.photo.frames": {
       "type": "am",
-       "ads_list": ["fb,am"],
+       "ads_list": ["fb","am"],
 
         "am_ba": "/UPSuLCac6xbb0XhHlOqZUXJRlJj1WQQ+u7oKx/Zn81Z0Ox6iEqDCaeeeMP+fS6H",
       "am_in": "/UPSuLCac6xbb0XhHlOqZcF3zi9mr/UblyjJr8tttFxrmqkjoxTkBF7ez9WenVUy",
