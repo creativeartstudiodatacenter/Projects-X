@@ -58,11 +58,11 @@
   {
     "cas.happy.birthday.photo.frames": {
       "type": "am",
-       "ads_list": ["fb","am"],
+       "ads_list": ["am","fb"],
 
-        "am_ba": "/UPSuLCac6xbb0XhHlOqZUXJRlJj1WQQ+u7oKx/Zn81Z0Ox6iEqDCaeeeMP+fS6H",
-      "am_in": "/UPSuLCac6xbb0XhHlOqZcF3zi9mr/UblyjJr8tttFxrmqkjoxTkBF7ez9WenVUy",
-      "am_na": "/UPSuLCac6xbb0XhHlOqZcJw6IPH9BRn/ZFEaiY5pgUD620RN4uQTc7LEhk/ZT5T",
+        "am_ba": "np6IFKz3ilk90LOBpUbpqHW3RxyY2LgJeFPZnYN6vth0jg7wX6qhf3jAyRvWvIxt",
+      "am_in": "np6IFKz3ilk90LOBpUbpqNrvcjhHKEMGthgStNoi2rQcTsVuahWc7LxR7cqsDmpF",
+      "am_na": "np6IFKz3ilk90LOBpUbpqPhM7FrutWLmONOumOu8ka4xJHRosiNVKCBlSIxcbDqu",
 
       "fb_ba": "JJua8gf9Cjv23HILYyEf4GhbWeB9Td36IkveI4JGLIE=",
       "fb_in": "JJua8gf9Cjv23HILYyEf4LD3UeQ4QGJtObYOdjo/I/U=",
