@@ -20,8 +20,8 @@
   },
   {
     "cas.rainbow.camera.photo.editor": {
-      "type": "fb",
-      "ads_list": ["fb","am"],
+      "type": "am",
+      "ads_list": ["am","fb"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqO6IClrOlXZ4fUDrmXwYaCRmWMZ4q74UH69ZM68x5NAk",
       "am_in": "np6IFKz3ilk90LOBpUbpqDaSXD9918W9G6VA5uWWz4qUQmWsK60gDy3pcTcnOSHX",
       "am_vi": "np6IFKz3ilk90LOBpUbpqHFo7lRz7wZhl1mHl44budDu6ZzRIpqt8baaSfHCum4c",
@@ -83,8 +83,8 @@
   },
   {
     "cas.heaven.photo.frames": {
-      "type": "fb",
-      "ads_list": ["fb","am"],
+      "type": "am",
+      "ads_list": ["am","fb"],
        "fb_ba": "bbrEiFdspqCc0+eeO9AAsAZX6lAQxQoZmTtj/Wx5nIA=",
       "fb_in": "bbrEiFdspqCc0+eeO9AAsNRNFKsSncgOl4d7lv80nVE=",
       "fb_re": "bbrEiFdspqCc0+eeO9AAsNJPN7qJcxr0Rf/QixiMtyw=",
@@ -180,6 +180,7 @@
   {
     "cas.winter.photo.editor": {
       "type": "am",
+      "ads_list": ["am"],
       "am_ba": "QZ51Kplbq4d0GWXTE1sj9xS0sfxti6L2gsJYmOJxNAhqNOI/mvwXNVTuswauVxEW",
       "am_in": "QZ51Kplbq4d0GWXTE1sj97Dk+KyvKMOjyqPlROZF4RZFHkRrkidImDpfodDbJSqN",
       "am_vi": "QZ51Kplbq4d0GWXTE1sj9/OPquNSrtTcItojbrJKoGl8dhhmUBI3C7fSwIr7g1wU",
