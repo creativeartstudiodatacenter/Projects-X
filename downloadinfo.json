@@ -107,7 +107,7 @@
   },
   {
     "cas.family.photo.frames": {
-      "type": "fb",
+      "type": "am",
       "am_ba": "np6IFKz3ilk90LOBpUbpqAzYBo6f1ZtAYmGOE7G5oWhBhZBfQaoc3A4Hs7FNVsFG",
       "am_in": "np6IFKz3ilk90LOBpUbpqFx+xdqDz7L/uhBGqjEwgDA55zdvbtd3DZJ5W/Cgb3Ub",
       "am_vi": "np6IFKz3ilk90LOBpUbpqI1kY83v+iSklcAca7vFc8d0Fwp962zaz2D7IW/Dz6i6",
@@ -117,12 +117,12 @@
       "fb_in": "0fd8tmoEsNP9PZjc/zghmcp5J0qDqbu2HppRZHLmbig=",
       "fb_re": "0fd8tmoEsNP9PZjc/zghmV5pTr9CI9wH/yt5FSYMo9k=",
       "fb_na": "0fd8tmoEsNP9PZjc/zghmQpDq2UW4zTWut5r5ege6fQ=",
-       "ads_list": ["fb","am"]
+       "ads_list": ["am","fb"]
     }
   },
   {
     "cas.sweet.snap.selfies.camera": {
-      "type": "fb",
+      "type": "am",
       "am_ba": "np6IFKz3ilk90LOBpUbpqC3Xby24Sf+kQe7mHg69lHNqumEPRpekEkEhiLi2VNYj",
       "am_in": "np6IFKz3ilk90LOBpUbpqAIRI6WiD9RpuaRtTIxs0sMXznu2Qo6M4QBjdr+Ms52a",
       "am_vi": "np6IFKz3ilk90LOBpUbpqLC4XNSSGVMHQ0APMGLDjEXaFXfrFMV8sOmIei60vSPS",
@@ -132,7 +132,7 @@
       "fb_in": "bHixwsdBK0OYicwAiblHAe7aFnpjrXBaP2gE/QvXGAA=",
       "fb_re": "bHixwsdBK0OYicwAiblHAabUch4k6OBOrXYVBY0qIg0=",
       "fb_na": "bHixwsdBK0OYicwAiblHAYC/vobBfahBf45enAgzA8Y=",
-       "ads_list": ["fb","am"]
+       "ads_list": ["am","fb"]
     }
   },
   {
@@ -147,8 +147,8 @@
   },
   {
     "cas.garden.photo.frame": {
-    	"type": "fb",
-      "ads_list": ["fb","am","sa"],
+    	"type": "am",
+      "ads_list": ["am","fb","sa"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqHD59MBhzO2oVywJqbQ7SANVgZnOgsK1v62eokQ8zLw3",
       "am_in": "np6IFKz3ilk90LOBpUbpqLvxgyXKyu8mQV+/5J0WoqpcCdWruPGpur6Tzv4TUAGq",
       "am_vi": "np6IFKz3ilk90LOBpUbpqNGDv1NzS9c0WPSXPJuaTrYvV0jIzJV7VKvlGglTdAVa",
@@ -164,8 +164,8 @@
   },
   {
     "cas.sweet.selfie.beauty.camera": {
-      "type": "fb",
-      "ads_list": ["fb","am"],
+      "type": "am",
+      "ads_list": ["am","fb"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqB+cNv+S0iVLajKPl6GgBxjgiFrgk1YowRajOZwZStap",
       "am_in": "np6IFKz3ilk90LOBpUbpqHjw74+2DIVIAilTRTqwPZwTcwGZQS27yaOeAW93RdDV",
       "am_vi": "np6IFKz3ilk90LOBpUbpqOCERfkTBPMM7UrUn3R02lr2mJEj9dlCi4eWrvnfZB2O",
