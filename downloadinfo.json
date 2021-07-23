@@ -20,8 +20,8 @@
   },
   {
     "cas.rainbow.camera.photo.editor": {
-      "type": "am",
-      "ads_list": ["am","fb"],
+      "type": "fb",
+      "ads_list": ["fb", "am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqO6IClrOlXZ4fUDrmXwYaCRmWMZ4q74UH69ZM68x5NAk",
       "am_in": "np6IFKz3ilk90LOBpUbpqDaSXD9918W9G6VA5uWWz4qUQmWsK60gDy3pcTcnOSHX",
       "am_vi": "np6IFKz3ilk90LOBpUbpqHFo7lRz7wZhl1mHl44budDu6ZzRIpqt8baaSfHCum4c",
@@ -35,8 +35,8 @@
   },
   {
     "cas2.waterfall.photo.editor": {
-      "type": "am",
-      "ads_list": ["am","fb"],
+      "type": "fb",
+      "ads_list": ["fb", "am"],
 
        "fb_ba_test": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
       "fb_in_test": "xk0Z4yk2jeolgQGPfhNpmLjjwxwRHdwAFpuFmQs2hlSHivmElE+8EtpEp78PS7CcFQdlIm00sk7TFfUdOeCxHA==",
@@ -57,8 +57,8 @@
   },
   {
     "cas.happy.birthday.photo.frames": {
-      "type": "am",
-       "ads_list": ["am","fb"],
+      "type": "fb",
+       "ads_list": ["fb", "am"],
 
         "am_ba": "np6IFKz3ilk90LOBpUbpqHW3RxyY2LgJeFPZnYN6vth0jg7wX6qhf3jAyRvWvIxt",
       "am_in": "np6IFKz3ilk90LOBpUbpqNrvcjhHKEMGthgStNoi2rQcTsVuahWc7LxR7cqsDmpF",
@@ -107,7 +107,7 @@
   },
   {
     "cas.family.photo.frames": {
-      "type": "am",
+      "type": "fb",
       "am_ba": "np6IFKz3ilk90LOBpUbpqAzYBo6f1ZtAYmGOE7G5oWhBhZBfQaoc3A4Hs7FNVsFG",
       "am_in": "np6IFKz3ilk90LOBpUbpqFx+xdqDz7L/uhBGqjEwgDA55zdvbtd3DZJ5W/Cgb3Ub",
       "am_vi": "np6IFKz3ilk90LOBpUbpqI1kY83v+iSklcAca7vFc8d0Fwp962zaz2D7IW/Dz6i6",
@@ -117,7 +117,7 @@
       "fb_in": "0fd8tmoEsNP9PZjc/zghmcp5J0qDqbu2HppRZHLmbig=",
       "fb_re": "0fd8tmoEsNP9PZjc/zghmV5pTr9CI9wH/yt5FSYMo9k=",
       "fb_na": "0fd8tmoEsNP9PZjc/zghmQpDq2UW4zTWut5r5ege6fQ=",
-       "ads_list": ["am","fb"]
+       "ads_list": ["fb", "am"]
     }
   },
   {
@@ -147,8 +147,8 @@
   },
   {
     "cas.garden.photo.frame": {
-    	"type": "am",
-      "ads_list": ["am","fb","sa"],
+    	"type": "fb",
+      "ads_list": ["fb", "am","sa"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqHD59MBhzO2oVywJqbQ7SANVgZnOgsK1v62eokQ8zLw3",
       "am_in": "np6IFKz3ilk90LOBpUbpqLvxgyXKyu8mQV+/5J0WoqpcCdWruPGpur6Tzv4TUAGq",
       "am_vi": "np6IFKz3ilk90LOBpUbpqNGDv1NzS9c0WPSXPJuaTrYvV0jIzJV7VKvlGglTdAVa",
@@ -164,8 +164,8 @@
   },
   {
     "cas.sweet.selfie.beauty.camera": {
-      "type": "am",
-      "ads_list": ["am","fb"],
+      "type": "fb",
+      "ads_list": ["fb", "am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqB+cNv+S0iVLajKPl6GgBxjgiFrgk1YowRajOZwZStap",
       "am_in": "np6IFKz3ilk90LOBpUbpqHjw74+2DIVIAilTRTqwPZwTcwGZQS27yaOeAW93RdDV",
       "am_vi": "np6IFKz3ilk90LOBpUbpqOCERfkTBPMM7UrUn3R02lr2mJEj9dlCi4eWrvnfZB2O",
@@ -190,7 +190,7 @@
   {
     "cas.car.photo.frames": {
       "type": "am",
-      "ads_list": ["am","fb"],
+      "ads_list": ["fb", "am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqGPK4Ur7GvDbfx915tA/QicskgOZofFrt2oRVcrRFxFN",
       "am_in": "np6IFKz3ilk90LOBpUbpqAnNYB/UZFVUVHWbrvuTSC8/MxZarH8ZTTlskpFxxxvL",
       "am_vi": "",
