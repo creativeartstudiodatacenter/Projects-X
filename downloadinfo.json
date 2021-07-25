@@ -189,7 +189,7 @@
   },
   {
     "cas.car.photo.frames": {
-      "type": "am",
+      "type": "fb",
       "ads_list": ["fb", "am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqGPK4Ur7GvDbfx915tA/QicskgOZofFrt2oRVcrRFxFN",
       "am_in": "np6IFKz3ilk90LOBpUbpqAnNYB/UZFVUVHWbrvuTSC8/MxZarH8ZTTlskpFxxxvL",
