@@ -58,9 +58,9 @@
   {
     "cas.happy.birthday.photo.frames": {
       "type": "fb",
-       "ads_list": ["fb", "am"],
+       "ads_list": ["mp", "fb", "am"],
 
-        "am_ba": "np6IFKz3ilk90LOBpUbpqHW3RxyY2LgJeFPZnYN6vth0jg7wX6qhf3jAyRvWvIxt",
+      "am_ba": "np6IFKz3ilk90LOBpUbpqHW3RxyY2LgJeFPZnYN6vth0jg7wX6qhf3jAyRvWvIxt",
       "am_in": "np6IFKz3ilk90LOBpUbpqNrvcjhHKEMGthgStNoi2rQcTsVuahWc7LxR7cqsDmpF",
       "am_na": "np6IFKz3ilk90LOBpUbpqPhM7FrutWLmONOumOu8ka4xJHRosiNVKCBlSIxcbDqu",
 
@@ -68,7 +68,11 @@
       "fb_in": "JJua8gf9Cjv23HILYyEf4LD3UeQ4QGJtObYOdjo/I/U=",
       "fb_re": "JJua8gf9Cjv23HILYyEf4D9w5OFCBxRK8UHHB/O9Y1A=",
       "fb_na": "JJua8gf9Cjv23HILYyEf4IlpnU6SaiPn0sW7Rhxev1I=",
-      "disable_sa":false
+
+      "mp_ba": "QmdCRPwkpFoT9jkNONPdtq6c6c3xrvwdlQW8jktukWj29jW3XP4iZtDnAwIXgb59",
+      "mp_re": "ncYGMakaHEuobasSqgcldL6sCRLfrB55yfzk+MJRE/2Dwg33fpBOdeC3Is/8cvCs",
+      "mp_in": "qXqiCnCXcmmLqDjRygmce2xwe0mcscwLa52mMZkbeDMFfW7laog5Kil25n7EEAM7",
+      "mp_na": "NAOx6rfu7npR+wcLqKGiOdVyhD8mBGNotz8aIB8PgF8KHtNgu+5LOYPxVsDRbzkn"
     }
   },
   {
@@ -148,7 +152,7 @@
   {
     "cas.garden.photo.frame": {
     	"type": "fb",
-      "ads_list": ["fb", "am","sa"],
+      "ads_list": ["fb", "am"],
       "am_ba": "np6IFKz3ilk90LOBpUbpqHD59MBhzO2oVywJqbQ7SANVgZnOgsK1v62eokQ8zLw3",
       "am_in": "np6IFKz3ilk90LOBpUbpqLvxgyXKyu8mQV+/5J0WoqpcCdWruPGpur6Tzv4TUAGq",
       "am_vi": "np6IFKz3ilk90LOBpUbpqNGDv1NzS9c0WPSXPJuaTrYvV0jIzJV7VKvlGglTdAVa",
@@ -157,9 +161,7 @@
        "fb_ba": "cfZSuJkLeyzky+1Qyfqj6N0lQ+rAPXKq1COLAqnyIOE=",
       "fb_in": "cfZSuJkLeyzky+1Qyfqj6DquQsrT5cu52DDGIu88Lh0=",
       "fb_re": "cfZSuJkLeyzky+1Qyfqj6HvGhZCIjMqgxtJ/QeSlYGY=",
-      "fb_na": "cfZSuJkLeyzky+1Qyfqj6G/BqZs/+4rOkNpZMT1Eu+0=",
-
-      "disable_sa":false
+      "fb_na": "cfZSuJkLeyzky+1Qyfqj6G/BqZs/+4rOkNpZMT1Eu+0="
     }
   },
   {
