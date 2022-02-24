@@ -112,17 +112,13 @@
   },
   {
     "cas.family.photo.frames": {
-      "type": "am",
-      "am_ba": "np6IFKz3ilk90LOBpUbpqAzYBo6f1ZtAYmGOE7G5oWhBhZBfQaoc3A4Hs7FNVsFG",
-      "am_in": "np6IFKz3ilk90LOBpUbpqFx+xdqDz7L/uhBGqjEwgDA55zdvbtd3DZJ5W/Cgb3Ub",
-      "am_vi": "np6IFKz3ilk90LOBpUbpqI1kY83v+iSklcAca7vFc8d0Fwp962zaz2D7IW/Dz6i6",
-      "am_na": "np6IFKz3ilk90LOBpUbpqIGl28LFPYlfyVB+3JpobcShoqEmzS36VPPteJ+PmB/k",
-
+      "type": "fb",
+      
        "fb_ba": "0fd8tmoEsNP9PZjc/zghmVhneMvG6Y+mndPNX5i6JvQ=",
       "fb_in": "0fd8tmoEsNP9PZjc/zghmcp5J0qDqbu2HppRZHLmbig=",
       "fb_re": "0fd8tmoEsNP9PZjc/zghmV5pTr9CI9wH/yt5FSYMo9k=",
       "fb_na": "0fd8tmoEsNP9PZjc/zghmQpDq2UW4zTWut5r5ege6fQ=",
-       "ads_list": ["am", "fb"]
+       "ads_list": ["fb"]
     }
   },
   {
