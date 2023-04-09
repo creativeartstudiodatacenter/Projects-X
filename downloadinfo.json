@@ -57,6 +57,28 @@
       "fb_re": "I8spIlB5o7z2K7vM76FBlcQCSgOk6EDJWoDC6CBBOTs=",
       "fb_na": "I8spIlB5o7z2K7vM76FBlQGeh2uBZ12xqhXx3E3xbxg=",
       
+      "am_ba": "UXElstq9wvrZlRjplC/FtW/Cmj+wcfJFhm4IEWYyLKFygeV/ZzE1n0CvqwhhvVfR",
+      "am_in": "UXElstq9wvrZlRjplC/FtbKWscLtcZfpZrkIwKJ9hNNdpj3y4ANmKuQ9pWvOxvrM",
+      "am_vi": "UXElstq9wvrZlRjplC/FtdpClL1YS20NOrKbyd21i6ZjYSn9yCFS1jWUMlD9sR7r",
+      "am_na": "UXElstq9wvrZlRjplC/FtbocLTlAeg02olrrOvYxBVy3+1KxWczCaeW2fyH72Uc9"
+    }
+  },
+  {
+    "cas2.waterfall.photo.editor.backup": {
+      "type": "am",
+      "ads_list": ["am", "fb"],
+
+       "fb_ba_test": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
+      "fb_in_test": "xk0Z4yk2jeolgQGPfhNpmLjjwxwRHdwAFpuFmQs2hlSHivmElE+8EtpEp78PS7CcFQdlIm00sk7TFfUdOeCxHA==",
+      "fb_re_test": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
+      "fb_na_test": "lK9eVamuAM8S6D4UZcgcktdC10yY6IuU83rFrQF9Pobi+DC6nLGaMzAnM/dA3S1H",
+      "sa_id_test":"VJe3JZhzK2/iuKgfG2dsbA==",
+
+      "fb_ba": "I8spIlB5o7z2K7vM76FBlVSKUgkul3ZwTvRWfqJtcD4=",
+      "fb_in": "I8spIlB5o7z2K7vM76FBlYdxv4fYTBAqErn/jlNhwFE=",
+      "fb_re": "I8spIlB5o7z2K7vM76FBlcQCSgOk6EDJWoDC6CBBOTs=",
+      "fb_na": "I8spIlB5o7z2K7vM76FBlQGeh2uBZ12xqhXx3E3xbxg=",
+      
       "am_ba": "np6IFKz3ilk90LOBpUbpqPgXOoNvNx8hEb0gphzzk6rn0dIBhKuhcONs1UTizscA",
       "am_in": "np6IFKz3ilk90LOBpUbpqN5ElWd5yN3vB10/6hwSWn6TC09PaqiphJ9a5IMmY9Pa",
       "am_vi": "",
@@ -96,8 +118,14 @@
   },
   {
     "cas.flower.photo.frames.photo.editor": {
-      "type": "fb",
-      "ads_list": ["fb"],
+      "type": "am",
+      "ads_list": ["am", "fb"],
+
+      "am_ba": "UXElstq9wvrZlRjplC/FtU2miuWrTZoICYs9Valu6PeABrSZp+gonnMBienG/rpS",
+      "am_in": "UXElstq9wvrZlRjplC/FtXcLGLciToR455EsmtoMC1V2B+SYU0fPUZptTwUjvGQ0",
+      "am_na": "UXElstq9wvrZlRjplC/FtdPbA1svYOULyEikf9oSbOp5RR7hN+hntBRqQ1/uLcf3",
+      "am_vi": "UXElstq9wvrZlRjplC/FtXIRy2UQFlmFFJMXsvXnEUbs8Mqw96g+vpGALzZhwdaC",
+
       "fb_ba": "fGNbq9FClqDiZiHsWIrvBi4dwD/vIPzW40GRNNbuBwI=",
       "fb_in": "fGNbq9FClqDiZiHsWIrvBoeXYqCWSScIT4IGykV/mHE=",
       "fb_re": "fGNbq9FClqDiZiHsWIrvBulKVnF1+QQliAtdXsTtfmk=",
