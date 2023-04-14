@@ -42,7 +42,7 @@
     }
   },
   {
-    "cas2.waterfall.photo.editor": {
+    "cas2.waterfall.photo.editor.new": {
       "type": "am",
       "ads_list": ["am", "fb"],
 
@@ -64,7 +64,7 @@
     }
   },
   {
-    "cas2.waterfall.photo.editor.backup": {
+    "cas2.waterfall.photo.editor": {
       "type": "am",
       "ads_list": ["am", "fb"],
 
@@ -86,7 +86,7 @@
     }
   },
   {
-    "cas.happy.birthday.photo.frames": {
+    "cas.happy.birthday.photo.frames.new": {
       "type": "am",
        "ads_list": ["am", "fb"],
 
@@ -102,7 +102,7 @@
     }
   },
   {
-    "cas.happy.birthday.photo.frames.backup": {
+    "cas.happy.birthday.photo.frames": {
       "type": "am",
        "ads_list": ["am", "fb"],
 
