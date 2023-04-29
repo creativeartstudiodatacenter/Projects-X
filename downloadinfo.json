@@ -144,16 +144,16 @@
   },
   {
     "cas.heaven.photo.frames": {
-      "type": "am",
+      "type": "fb",
       "ads_list": ["am", "fb"],
        "fb_ba": "bbrEiFdspqCc0+eeO9AAsAZX6lAQxQoZmTtj/Wx5nIA=",
       "fb_in": "bbrEiFdspqCc0+eeO9AAsNRNFKsSncgOl4d7lv80nVE=",
       "fb_re": "bbrEiFdspqCc0+eeO9AAsNJPN7qJcxr0Rf/QixiMtyw=",
       "fb_na": "bbrEiFdspqCc0+eeO9AAsAcRTsSCfPv63t05rpVX7C8=",
-      "am_ba": "VcJfO+fLkx+mlLk2QtRKIUNgvbkybEH8FS5OpSoBTbzpl9CjYrucHymjVmdarV7L",
-      "am_in": "VcJfO+fLkx+mlLk2QtRKIeCyUzxRCOQ0XN2D4oHXhwNCZNyANxYGXpiGHknu3iJ7",
-      "am_vi": "VcJfO+fLkx+mlLk2QtRKIfqpomn6g5OTs+YdpBIv8zMj++mWY1Ogs7A1ojF5b8AE",
-      "am_na": "VcJfO+fLkx+mlLk2QtRKIcLK88exT65w2UUxRroWfCTLs7/p6Z9dpPR7iC5TppSm"
+      "am_ba": "",
+      "am_in": "",
+      "am_vi": "",
+      "am_na": ""
     }
   },
   {
