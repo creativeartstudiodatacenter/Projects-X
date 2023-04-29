@@ -118,13 +118,13 @@
   },
   {
     "cas.flower.photo.frames.photo.editor": {
-      "type": "am",
+      "type": "fb",
       "ads_list": ["am", "fb"],
 
-      "am_ba": "UXElstq9wvrZlRjplC/FtU2miuWrTZoICYs9Valu6PeABrSZp+gonnMBienG/rpS",
-      "am_in": "UXElstq9wvrZlRjplC/FtXcLGLciToR455EsmtoMC1V2B+SYU0fPUZptTwUjvGQ0",
-      "am_na": "UXElstq9wvrZlRjplC/FtdPbA1svYOULyEikf9oSbOp5RR7hN+hntBRqQ1/uLcf3",
-      "am_vi": "UXElstq9wvrZlRjplC/FtXIRy2UQFlmFFJMXsvXnEUbs8Mqw96g+vpGALzZhwdaC",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+      "am_vi": "",
 
       "fb_ba": "fGNbq9FClqDiZiHsWIrvBi4dwD/vIPzW40GRNNbuBwI=",
       "fb_in": "fGNbq9FClqDiZiHsWIrvBoeXYqCWSScIT4IGykV/mHE=",
@@ -168,12 +168,12 @@
   },
   {
     "cas.family.photo.frames": {
-      "type": "am",
+      "type": "fb",
       
-      "am_ba": "UXElstq9wvrZlRjplC/FtWwbBoR0gvDZNOFdmjdgSmVYgZIplYkpeiR3pKQVrVrc",
-      "am_in": "UXElstq9wvrZlRjplC/FtXH+d6R3mHb1WS7XBanLmaOWesYtdX8+msqzo9GxpiLZ",
-      "am_vi": "UXElstq9wvrZlRjplC/FtWGIzuBkIxZVYHnR7fhzGkBhNo3Qm1mVRUF6IxnwJD+Q",
-      "am_na": "UXElstq9wvrZlRjplC/FtYeRseDXGQpiuxpFLXDXrYrqJXFSUGvlubjpNsehQI62",
+      "am_ba": "",
+      "am_in": "",
+      "am_vi": "",
+      "am_na": "",
 
        "fb_ba": "0fd8tmoEsNP9PZjc/zghmVhneMvG6Y+mndPNX5i6JvQ=",
       "fb_in": "0fd8tmoEsNP9PZjc/zghmcp5J0qDqbu2HppRZHLmbig=",
