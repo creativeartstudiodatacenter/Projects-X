@@ -90,10 +90,10 @@
       "type": "am",
        "ads_list": ["am", "fb"],
 
-      "am_ba": "JdATR+VjgfvjrA/Jf3CrKBbn2jd63UhjZEHXkb73yu1BGDGfYqr4B179m1dCZ97z",
-      "am_in": "JdATR+VjgfvjrA/Jf3CrKKBcgc9xErcowazrL8BNrkY0qyPKWsCW6JDIeWqTShD7",
-      "am_vi": "JdATR+VjgfvjrA/Jf3CrKJYp0L8yA3FBaNYLQssUx4buKedK/uud276JKG3z6yXd",
-      "am_na": "JdATR+VjgfvjrA/Jf3CrKKZqSj/0mC5yiMpA+1L9dccKi8ZaMkF4hdmAyDprbhrp",
+      "am_ba": "",
+      "am_in": "",
+      "am_vi": "",
+      "am_na": "",
 
       "fb_ba": "JJua8gf9Cjv23HILYyEf4GhbWeB9Td36IkveI4JGLIE=",
       "fb_in": "JJua8gf9Cjv23HILYyEf4LD3UeQ4QGJtObYOdjo/I/U=",
@@ -121,10 +121,10 @@
       "type": "am",
       "ads_list": ["am", "fb"],
 
-      "am_ba": "JdATR+VjgfvjrA/Jf3CrKHPwQLqzaVzlvA7QlAIT5EE/wHv97zSDrUFtuhBPl0kC",
-      "am_in": "JdATR+VjgfvjrA/Jf3CrKOOBBVL4IO35pOp/xU5W8p/bCbDS/LfvZ4DJE8kUguG6",
-      "am_vi": "JdATR+VjgfvjrA/Jf3CrKOnWTIlwqU2R+e8qXr6VG8p1N7KjEclEEBLu+aGM9FoR",
-      "am_na": "JdATR+VjgfvjrA/Jf3CrKG1hEVd2Cbi4I5l+7jSNmd0wnAD2o+mwGgpHh+HyK3T2",
+      "am_ba": "",
+      "am_in": "",
+      "am_vi": "",
+      "am_na": "",
 
       "fb_ba": "fGNbq9FClqDiZiHsWIrvBi4dwD/vIPzW40GRNNbuBwI=",
       "fb_in": "fGNbq9FClqDiZiHsWIrvBoeXYqCWSScIT4IGykV/mHE=",
@@ -166,10 +166,10 @@
       "fb_in": "bbrEiFdspqCc0+eeO9AAsNRNFKsSncgOl4d7lv80nVE=",
       "fb_re": "bbrEiFdspqCc0+eeO9AAsNJPN7qJcxr0Rf/QixiMtyw=",
       "fb_na": "bbrEiFdspqCc0+eeO9AAsAcRTsSCfPv63t05rpVX7C8=",
-      "am_ba": "JdATR+VjgfvjrA/Jf3CrKBtH1Tw00qU3llgrrVxjhZRHLQqvpvemzk+rM3w4sY19",
-      "am_in": "JdATR+VjgfvjrA/Jf3CrKBLTQjK2qXf9hl+Oup45AZ7UxbxZYUAZ7Jp8ENJ4LjW4",
-      "am_vi": "JdATR+VjgfvjrA/Jf3CrKAJWeLULxd9qzJgiHfziDVCFFkc6fOXuLb8eSFlrndTb",
-      "am_na": "JdATR+VjgfvjrA/Jf3CrKJZmWqz7jgGcJfoczaGBQrAMLEiDP1Q4NuX48PAV6Eh9"
+      "am_ba": "",
+      "am_in": "",
+      "am_vi": "",
+      "am_na": ""
     }
   },
   {
@@ -186,10 +186,10 @@
     "cas.family.photo.frames": {
       "type": "am",
       
-      "am_ba": "JdATR+VjgfvjrA/Jf3CrKGDlINUKbFPooh/AvzjO17kf1NcsSeXEsTxIHYf3AGt4",
-      "am_in": "JdATR+VjgfvjrA/Jf3CrKIVzX+Ytb3xRX9D89My83AiQpvsjIcb8MRM8ALoNopj+",
-      "am_vi": "JdATR+VjgfvjrA/Jf3CrKDWTLf6QuN/n8w2Kp7cHbzebRXzDRTJ8TbdHiFaCO7Z8",
-      "am_na": "JdATR+VjgfvjrA/Jf3CrKCCjCAiRIbThNw1nfGMkZgMiNvrix1Ip5Ef6KYqC2v90",
+      "am_ba": "",
+      "am_in": "",
+      "am_vi": "",
+      "am_na": "",
 
        "fb_ba": "0fd8tmoEsNP9PZjc/zghmVhneMvG6Y+mndPNX5i6JvQ=",
       "fb_in": "0fd8tmoEsNP9PZjc/zghmcp5J0qDqbu2HppRZHLmbig=",
