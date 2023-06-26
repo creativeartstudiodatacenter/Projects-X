@@ -65,11 +65,11 @@
   },
   {
     "cas.happy.birthday.photo.frames": {
-      "type": "fb",
-       "ads_list": ["fb"],
+      "type": "am",
+       "ads_list": ["am", "fb"],
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1723043212494135/9735468069",
       "am_vi": "",
       "am_na": "",
 
@@ -96,11 +96,11 @@
   },
   {
     "cas.flower.photo.frames.photo.editor": {
-      "type": "fb",
-      "ads_list": ["fb"],
+      "type": "am",
+      "ads_list": ["am", "fb"],
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1723043212494135/1212296004",
       "am_vi": "",
       "am_na": "",
 
@@ -138,14 +138,14 @@
   },
   {
     "cas.heaven.photo.frames": {
-      "type": "fb",
-      "ads_list": ["fb"],
+      "type": "am",
+      "ads_list": ["am", "fb"],
        "fb_ba": "bbrEiFdspqCc0+eeO9AAsAZX6lAQxQoZmTtj/Wx5nIA=",
       "fb_in": "bbrEiFdspqCc0+eeO9AAsNRNFKsSncgOl4d7lv80nVE=",
       "fb_re": "bbrEiFdspqCc0+eeO9AAsNJPN7qJcxr0Rf/QixiMtyw=",
       "fb_na": "bbrEiFdspqCc0+eeO9AAsAcRTsSCfPv63t05rpVX7C8=",
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1723043212494135/5978619097",
       "am_vi": "",
       "am_na": ""
     }
@@ -162,10 +162,10 @@
   },
   {
     "cas.family.photo.frames": {
-      "type": "fb",
+      "type": "am",
       
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1723043212494135/4228770764",
       "am_vi": "",
       "am_na": "",
 
@@ -173,7 +173,7 @@
       "fb_in": "0fd8tmoEsNP9PZjc/zghmcp5J0qDqbu2HppRZHLmbig=",
       "fb_re": "0fd8tmoEsNP9PZjc/zghmV5pTr9CI9wH/yt5FSYMo9k=",
       "fb_na": "0fd8tmoEsNP9PZjc/zghmQpDq2UW4zTWut5r5ege6fQ=",
-       "ads_list": ["fb"]
+       "ads_list": ["am", "fb"]
     }
   },
   {
