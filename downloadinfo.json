@@ -43,8 +43,8 @@
   },
   {
     "cas2.waterfall.photo.editor": {
-      "type": "am",
-      "ads_list": ["am", "fb"],
+      "type": "fb",
+      "ads_list": ["fb"],
 
        "fb_ba_test": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
       "fb_in_test": "xk0Z4yk2jeolgQGPfhNpmLjjwxwRHdwAFpuFmQs2hlSHivmElE+8EtpEp78PS7CcFQdlIm00sk7TFfUdOeCxHA==",
@@ -58,18 +58,18 @@
       "fb_na": "I8spIlB5o7z2K7vM76FBlQGeh2uBZ12xqhXx3E3xbxg=",
       
       "am_ba": "",
-      "am_in": "fVnRukzH3RyC92H9rA93r1qv8WRqw01kZ9Yk/yL8xVvk9MVU/S9mcZmiFMiuJjIF",
+      "am_in": "",
       "am_vi": "",
       "am_na": ""
     }
   },
   {
     "cas.happy.birthday.photo.frames": {
-      "type": "am",
-       "ads_list": ["am", "fb"],
+      "type": "fb",
+       "ads_list": ["fb"],
 
       "am_ba": "",
-      "am_in": "fVnRukzH3RyC92H9rA93r++GblAY2fibJsy1E2HwNNwD5nWtMPmRJMwdo7B8lNh8",
+      "am_in": "",
       "am_vi": "",
       "am_na": "",
 
@@ -96,11 +96,11 @@
   },
   {
     "cas.flower.photo.frames.photo.editor": {
-      "type": "am",
-      "ads_list": ["am", "fb"],
+      "type": "fb",
+      "ads_list": ["fb"],
 
       "am_ba": "",
-      "am_in": "fVnRukzH3RyC92H9rA93r0Rdvkl9i8wT8XAZ1elX6bfKlFrOLulQh5mYCxYGGFx7",
+      "am_in": "",
       "am_vi": "",
       "am_na": "",
 
@@ -138,14 +138,14 @@
   },
   {
     "cas.heaven.photo.frames": {
-      "type": "am",
-      "ads_list": ["am", "fb"],
+      "type": "fb",
+      "ads_list": ["fb"],
        "fb_ba": "bbrEiFdspqCc0+eeO9AAsAZX6lAQxQoZmTtj/Wx5nIA=",
       "fb_in": "bbrEiFdspqCc0+eeO9AAsNRNFKsSncgOl4d7lv80nVE=",
       "fb_re": "bbrEiFdspqCc0+eeO9AAsNJPN7qJcxr0Rf/QixiMtyw=",
       "fb_na": "bbrEiFdspqCc0+eeO9AAsAcRTsSCfPv63t05rpVX7C8=",
       "am_ba": "",
-      "am_in": "fVnRukzH3RyC92H9rA93r1YYLE5UKtAFvV0N/oUqpJYOk9t5l44m4rlGKK+YjFxf",
+      "am_in": "",
       "am_vi": "",
       "am_na": ""
     }
@@ -162,10 +162,10 @@
   },
   {
     "cas.family.photo.frames": {
-      "type": "am",
+      "type": "fb",
       
       "am_ba": "",
-      "am_in": "fVnRukzH3RyC92H9rA93r/HtDpP22OG66gMZF3BaMAzoWdWReHXJkpPYMy2/o6P0",
+      "am_in": "",
       "am_vi": "",
       "am_na": "",
 
@@ -173,7 +173,7 @@
       "fb_in": "0fd8tmoEsNP9PZjc/zghmcp5J0qDqbu2HppRZHLmbig=",
       "fb_re": "0fd8tmoEsNP9PZjc/zghmV5pTr9CI9wH/yt5FSYMo9k=",
       "fb_na": "0fd8tmoEsNP9PZjc/zghmQpDq2UW4zTWut5r5ege6fQ=",
-       "ads_list": ["am", "fb"]
+       "ads_list": ["fb"]
     }
   },
   {
