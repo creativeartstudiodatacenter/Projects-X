@@ -43,8 +43,8 @@
   },
   {
     "cas2.waterfall.photo.editor": {
-      "type": "fb",
-      "ads_list": ["fb"],
+      "type": "am",
+      "ads_list": ["am", "fb"],
 
        "fb_ba_test": "cJlddniLSmV1qDrxcsNqqagI5ze+vzadtwiTa3iNngp1u8V8gKghYL2jLwYr1iGg",
       "fb_in_test": "xk0Z4yk2jeolgQGPfhNpmLjjwxwRHdwAFpuFmQs2hlSHivmElE+8EtpEp78PS7CcFQdlIm00sk7TFfUdOeCxHA==",
@@ -58,18 +58,18 @@
       "fb_na": "I8spIlB5o7z2K7vM76FBlQGeh2uBZ12xqhXx3E3xbxg=",
       
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ET7XI+VHTCM54utbCmaUFC5HIFDMhHt2ITvIEUwoAixJLpyT+0ND04yrs4N8dBR6",
       "am_vi": "",
       "am_na": ""
     }
   },
   {
     "cas.happy.birthday.photo.frames": {
-      "type": "fb",
-       "ads_list": ["fb"],
+      "type": "am",
+       "ads_list": ["am", "fb"],
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ET7XI+VHTCM54utbCmaUFOiGeUcYPKLmEyzOBxRPrC3PAB1ZxrIjXkB2/WPEFxa0",
       "am_vi": "",
       "am_na": "",
 
@@ -138,14 +138,14 @@
   },
   {
     "cas.heaven.photo.frames": {
-      "type": "fb",
-      "ads_list": ["fb"],
+      "type": "am",
+      "ads_list": ["am", "fb"],
        "fb_ba": "bbrEiFdspqCc0+eeO9AAsAZX6lAQxQoZmTtj/Wx5nIA=",
       "fb_in": "bbrEiFdspqCc0+eeO9AAsNRNFKsSncgOl4d7lv80nVE=",
       "fb_re": "bbrEiFdspqCc0+eeO9AAsNJPN7qJcxr0Rf/QixiMtyw=",
       "fb_na": "bbrEiFdspqCc0+eeO9AAsAcRTsSCfPv63t05rpVX7C8=",
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ET7XI+VHTCM54utbCmaUFD8YxPV+Pos+eoBkDNN/TgJDRpwCCTmsUX9zDLWFNQwP",
       "am_vi": "",
       "am_na": ""
     }
